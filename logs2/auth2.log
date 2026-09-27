@@ -1,0 +1,123 @@
+Oct 03 00:29:00 portal-app03 sshd[3945]: Accepted publickey for cmendoza from 10.0.20.29 port 48140 ssh2
+Oct 03 01:02:00 portal-app03 sshd[6627]: Accepted publickey for rvillanueva from 10.0.20.43 port 56223 ssh2
+Oct 03 01:05:00 portal-app03 sshd[2341]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 01:36:00 portal-app03 sshd[7850]: Accepted publickey for mreyes from 10.0.20.17 port 56775 ssh2
+Oct 03 01:55:00 portal-app03 sshd[2271]: Accepted publickey for nbautista from 10.0.20.36 port 41284 ssh2
+Oct 03 02:02:00 portal-app03 sshd[6604]: pam_unix(sshd:session): session closed for user mreyes
+Oct 03 02:04:00 portal-app03 sshd[5717]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 02:20:00 portal-app03 sshd[8474]: Accepted publickey for cmendoza from 10.0.20.48 port 56275 ssh2
+Oct 03 02:33:00 portal-app03 sshd[2533]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 03:05:00 portal-app03 sshd[1994]: Accepted publickey for rvillanueva from 10.0.20.40 port 42129 ssh2
+Oct 03 03:11:00 portal-app03 sshd[6140]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 03:29:00 portal-app03 sshd[1369]: Accepted publickey for apascual from 10.0.20.52 port 51370 ssh2
+Oct 03 03:49:00 portal-app03 sshd[8301]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 03:49:00 portal-app03 sshd[4575]: Accepted publickey for mreyes from 10.0.20.41 port 41931 ssh2
+Oct 03 04:27:00 portal-app03 sshd[9134]: Accepted publickey for ldelacruz from 10.0.20.35 port 52810 ssh2
+Oct 03 04:30:00 portal-app03 sshd[3119]: pam_unix(sshd:session): session closed for user mreyes
+Oct 03 04:33:00 portal-app03 sshd[6823]: pam_unix(sshd:session): session closed for user apascual
+Oct 03 04:42:00 portal-app03 sshd[3725]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 04:56:00 portal-app03 sshd[3243]: Accepted publickey for apascual from 10.0.20.45 port 49104 ssh2
+Oct 03 05:33:00 portal-app03 sshd[4780]: Accepted publickey for apascual from 10.0.20.32 port 52466 ssh2
+Oct 03 05:53:00 portal-app03 sshd[1197]: Accepted publickey for kaguilar from 10.0.20.24 port 47645 ssh2
+Oct 03 05:56:00 portal-app03 sshd[5561]: pam_unix(sshd:session): session closed for user apascual
+Oct 03 05:57:00 portal-app03 sshd[2359]: pam_unix(sshd:session): session closed for user apascual
+Oct 03 06:16:00 portal-app03 sshd[7864]: Accepted publickey for rvillanueva from 10.0.20.10 port 44773 ssh2
+Oct 03 06:50:00 portal-app03 sshd[1884]: Accepted publickey for cmendoza from 10.0.20.18 port 56891 ssh2
+Oct 03 07:00:00 portal-app03 sshd[3987]: pam_unix(sshd:session): session closed for user kaguilar
+Oct 03 07:17:00 portal-app03 sshd[8889]: Accepted publickey for apascual from 10.0.20.35 port 43392 ssh2
+Oct 03 07:29:00 portal-app03 sshd[7049]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 07:33:00 portal-app03 sshd[8219]: Accepted publickey for ldelacruz from 10.0.20.14 port 46840 ssh2
+Oct 03 07:53:00 portal-app03 sshd[7428]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 07:58:00 portal-app03 sshd[2801]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 07:58:00 portal-app03 sshd[3478]: Accepted publickey for jsantos from 10.0.20.16 port 40007 ssh2
+Oct 03 08:43:00 portal-app03 sshd[7560]: pam_unix(sshd:session): session closed for user apascual
+Oct 03 08:43:00 portal-app03 sshd[2152]: Accepted publickey for cmendoza from 10.0.20.49 port 40835 ssh2
+Oct 03 09:02:00 portal-app03 sshd[6966]: Accepted publickey for rvillanueva from 10.0.20.32 port 59735 ssh2
+Oct 03 09:10:00 portal-app03 sshd[3645]: Failed password for invalid user jsantos from 45.155.204.11 port 47330 ssh2
+Oct 03 09:11:00 portal-app03 sshd[2662]: pam_unix(sshd:session): session closed for user jsantos
+Oct 03 09:14:00 portal-app03 sshd[7164]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 09:20:00 portal-app03 sshd[8927]: Accepted publickey for nbautista from 10.0.20.39 port 55741 ssh2
+Oct 03 09:29:00 portal-app03 sshd[9447]: Failed password for invalid user mreyes from 45.155.204.22 port 54140 ssh2
+Oct 03 09:39:00 portal-app03 sshd[5337]: Accepted publickey for mreyes from 10.0.20.57 port 51227 ssh2
+Oct 03 09:43:00 portal-app03 sshd[7902]: Failed password for invalid user kaguilar from 45.155.204.33 port 51112 ssh2
+Oct 03 09:54:00 portal-app03 sshd[6218]: Failed password for invalid user ldelacruz from 45.155.204.44 port 51685 ssh2
+Oct 03 10:03:00 portal-app03 sshd[1319]: Failed password for invalid user rvillanueva from 45.155.204.11 port 51991 ssh2
+Oct 03 10:04:00 portal-app03 sshd[2407]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 10:07:00 portal-app03 sshd[3012]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 10:10:00 portal-app03 sshd[6926]: Accepted publickey for jsantos from 10.0.20.23 port 57309 ssh2
+Oct 03 10:16:00 portal-app03 sshd[8514]: Failed password for invalid user cmendoza from 45.155.204.22 port 58155 ssh2
+Oct 03 10:31:00 portal-app03 sshd[7297]: Failed password for invalid user apascual from 45.155.204.33 port 40592 ssh2
+Oct 03 10:33:00 portal-app03 sshd[9899]: pam_unix(sshd:session): session closed for user jsantos
+Oct 03 10:44:00 portal-app03 sshd[5840]: Failed password for invalid user nbautista from 45.155.204.44 port 56955 ssh2
+Oct 03 10:45:00 portal-app03 sshd[3645]: pam_unix(sshd:session): session closed for user mreyes
+Oct 03 10:54:00 portal-app03 sshd[5883]: Accepted publickey for jsantos from 10.0.20.58 port 57305 ssh2
+Oct 03 11:00:00 portal-app03 sshd[2848]: Failed password for invalid user admin from 45.155.204.11 port 42106 ssh2
+Oct 03 11:22:00 portal-app03 sshd[2716]: Failed password for invalid user administrator from 45.155.204.22 port 47489 ssh2
+Oct 03 11:31:00 portal-app03 sshd[3736]: Accepted publickey for rvillanueva from 10.0.20.43 port 52016 ssh2
+Oct 03 11:31:00 portal-app03 sshd[5455]: Failed password for invalid user svc-web from 45.155.204.33 port 48702 ssh2
+Oct 03 11:39:00 portal-app03 sshd[5430]: Failed password for invalid user backup from 45.155.204.44 port 45949 ssh2
+Oct 03 11:59:00 portal-app03 sshd[7918]: Failed password for invalid user support from 45.155.204.11 port 44245 ssh2
+Oct 03 12:03:00 portal-app03 sshd[4197]: Accepted publickey for cmendoza from 10.0.20.50 port 47308 ssh2
+Oct 03 12:20:00 portal-app03 sshd[7651]: Failed password for invalid user helpdesk from 45.155.204.22 port 48474 ssh2
+Oct 03 12:21:00 portal-app03 sshd[2491]: pam_unix(sshd:session): session closed for user jsantos
+Oct 03 12:21:00 portal-app03 sshd[4650]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 12:30:00 portal-app03 sshd[9434]: Failed password for invalid user guest from 45.155.204.33 port 57583 ssh2
+Oct 03 12:38:00 portal-app03 sshd[7564]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 12:41:00 portal-app03 sshd[9073]: Accepted publickey for ldelacruz from 10.0.20.22 port 56961 ssh2
+Oct 03 12:47:00 portal-app03 sshd[6358]: Failed password for invalid user test from 45.155.204.44 port 56207 ssh2
+Oct 03 12:56:00 portal-app03 sshd[4172]: Accepted publickey for rvillanueva from 10.0.20.40 port 48492 ssh2
+Oct 03 12:56:00 portal-app03 sshd[1942]: Failed password for invalid user webadmin from 45.155.204.11 port 49144 ssh2
+Oct 03 13:16:00 portal-app03 sshd[7968]: Failed password for invalid user portaladmin from 45.155.204.22 port 46007 ssh2
+Oct 03 13:25:00 portal-app03 sshd[4612]: Accepted publickey for cmendoza from 10.0.20.33 port 42639 ssh2
+Oct 03 13:31:00 portal-app03 sshd[1474]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 13:38:00 portal-app03 sshd[5406]: Failed password for invalid user finance from 45.155.204.33 port 42372 ssh2
+Oct 03 13:43:00 portal-app03 sshd[4716]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 13:46:00 portal-app03 sshd[5268]: Failed password for invalid user hr from 45.155.204.44 port 42902 ssh2
+Oct 03 13:55:00 portal-app03 sshd[8907]: Accepted publickey for ldelacruz from 10.0.20.31 port 46696 ssh2
+Oct 03 13:55:00 portal-app03 sshd[4643]: Failed password for invalid user sysadmin from 45.155.204.11 port 59928 ssh2
+Oct 03 14:04:00 portal-app03 sshd[2993]: Failed password for invalid user oracle from 45.155.204.22 port 48665 ssh2
+Oct 03 14:18:00 portal-app03 sshd[6640]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 14:21:00 portal-app03 sshd[1189]: Accepted password for rvillanueva from 45.155.204.33 port 52210 ssh2
+Oct 03 14:21:02 portal-app03 sshd[6556]: pam_unix(sshd:session): session opened for user rvillanueva by (uid=0)
+Oct 03 14:25:00 portal-app03 sshd[2964]: Accepted publickey for cmendoza from 10.0.20.51 port 42778 ssh2
+Oct 03 14:46:00 portal-app03 sshd[7844]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 14:55:00 portal-app03 sshd[2421]: Accepted publickey for kaguilar from 10.0.20.37 port 50895 ssh2
+Oct 03 15:19:00 portal-app03 sshd[1031]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 15:19:00 portal-app03 sshd[4265]: pam_unix(sshd:session): session closed for user cmendoza
+Oct 03 15:22:00 portal-app03 sshd[3785]: Accepted publickey for mreyes from 10.0.20.56 port 45205 ssh2
+Oct 03 15:41:00 portal-app03 sshd[8771]: Accepted publickey for nbautista from 10.0.20.51 port 44789 ssh2
+Oct 03 15:43:00 portal-app03 sshd[1451]: pam_unix(sshd:session): session closed for user mreyes
+Oct 03 15:50:00 portal-app03 sshd[8588]: pam_unix(sshd:session): session closed for user kaguilar
+Oct 03 16:00:00 portal-app03 sshd[2683]: Accepted publickey for kaguilar from 10.0.20.11 port 40466 ssh2
+Oct 03 16:28:00 portal-app03 sshd[5126]: Accepted publickey for ldelacruz from 10.0.20.23 port 40917 ssh2
+Oct 03 16:59:00 portal-app03 sshd[6341]: Accepted publickey for ldelacruz from 10.0.20.58 port 59216 ssh2
+Oct 03 17:00:00 portal-app03 sshd[5799]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 17:10:00 portal-app03 sshd[6741]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 17:12:00 portal-app03 sshd[3281]: pam_unix(sshd:session): session closed for user kaguilar
+Oct 03 17:27:00 portal-app03 sshd[8506]: Accepted publickey for kaguilar from 10.0.20.13 port 51592 ssh2
+Oct 03 17:37:00 portal-app03 sshd[9918]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 17:55:00 portal-app03 sshd[9577]: Accepted publickey for kaguilar from 10.0.20.44 port 44975 ssh2
+Oct 03 18:37:00 portal-app03 sshd[1064]: Accepted publickey for nbautista from 10.0.20.59 port 46000 ssh2
+Oct 03 18:56:00 portal-app03 sshd[9466]: pam_unix(sshd:session): session closed for user kaguilar
+Oct 03 18:56:00 portal-app03 sshd[2011]: Accepted publickey for nbautista from 10.0.20.49 port 43943 ssh2
+Oct 03 19:01:00 portal-app03 sshd[3823]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 19:05:00 portal-app03 sshd[1306]: pam_unix(sshd:session): session closed for user kaguilar
+Oct 03 19:27:00 portal-app03 sshd[1930]: Accepted publickey for nbautista from 10.0.20.59 port 43476 ssh2
+Oct 03 19:42:00 portal-app03 sshd[9492]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 19:50:00 portal-app03 sshd[9318]: Accepted publickey for jsantos from 10.0.20.59 port 43202 ssh2
+Oct 03 20:03:00 portal-app03 sshd[4134]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 20:29:00 portal-app03 sshd[9282]: Accepted publickey for mreyes from 10.0.20.38 port 50669 ssh2
+Oct 03 20:50:00 portal-app03 sshd[9737]: Accepted publickey for rvillanueva from 10.0.20.38 port 56651 ssh2
+Oct 03 20:52:00 portal-app03 sshd[1456]: pam_unix(sshd:session): session closed for user jsantos
+Oct 03 21:35:00 portal-app03 sshd[5253]: Accepted publickey for ldelacruz from 10.0.20.54 port 57144 ssh2
+Oct 03 21:51:00 portal-app03 sshd[9391]: pam_unix(sshd:session): session closed for user mreyes
+Oct 03 21:56:00 portal-app03 sshd[9319]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 03 22:16:00 portal-app03 sshd[2992]: Accepted publickey for nbautista from 10.0.20.18 port 53652 ssh2
+Oct 03 22:41:00 portal-app03 sshd[8017]: Accepted publickey for mreyes from 10.0.20.52 port 47885 ssh2
+Oct 03 22:51:00 portal-app03 sshd[4319]: pam_unix(sshd:session): session closed for user ldelacruz
+Oct 03 22:55:00 portal-app03 sshd[4484]: pam_unix(sshd:session): session closed for user mreyes
+Oct 03 23:11:00 portal-app03 sshd[8243]: pam_unix(sshd:session): session closed for user nbautista
+Oct 03 23:17:00 portal-app03 sshd[6999]: Accepted publickey for rvillanueva from 10.0.20.17 port 45060 ssh2
+Oct 03 23:40:00 portal-app03 sshd[5146]: pam_unix(sshd:session): session closed for user rvillanueva
+Oct 04 00:00:00 portal-app03 sshd[2542]: Accepted publickey for kaguilar from 10.0.20.39 port 47195 ssh2
+Oct 04 00:55:00 portal-app03 sshd[8983]: pam_unix(sshd:session): session closed for user kaguilar
